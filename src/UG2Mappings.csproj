@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <BaseOutputPath>..\bin\</BaseOutputPath>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<BaseOutputPath>..\bin\</BaseOutputPath>
+	</PropertyGroup>
 
-  <ItemGroup>
-	<ProjectReference Include="..\deps\L4RH\L4RH.csproj" Private="false" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\deps\L4RH\L4RH.csproj" Private="false" />
+	</ItemGroup>
 
 </Project>
