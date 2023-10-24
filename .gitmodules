@@ -1,0 +1,3 @@
+[submodule "deps/L4RH"]
+	path = deps/L4RH
+	url = https://github.com/TheDearbear/L4RH
